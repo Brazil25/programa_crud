@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Programa CRUD de banco de dados SQL.
-=======
 # Programa CRUD - Insumos
 
 Ferramenta de CRUD (banco de dados) para insumos.
@@ -115,4 +112,3 @@ Antes de começar, você precisará ter instalado em sua máquina:
 ## Licença
 
 Este projeto está sob a licença MIT.
->>>>>>> 4ddfcc0 (Atualização do arquivo README.md e ajustes no código)
