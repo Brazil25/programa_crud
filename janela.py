@@ -7,8 +7,8 @@ dados_conexao = (
     "Driver={ODBC Driver 18 for SQL Server};"
     "Server=localhost;"
     "Database=EstoqueMentoria;"
-    "UID=sa;"
-    "PWD='SUA_SENHA_AQUI';"
+    "UID=seu_usuario_aqui;"
+    "PWD=sua_senha_aqui;"
     "TrustServerCertificate=yes;"
 )
 conexao = pyodbc.connect(dados_conexao)
